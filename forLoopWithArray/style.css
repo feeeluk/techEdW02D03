@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#blogPosts{
+    background-color: orange;
+    height: 900px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blogOuterBox{
+    height: 100px;
+    width: 300px;
+    border: 1px black solid;
+    margin-bottom: 1px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.blogInnerBox{
+    height: 50px;
+    width: 250px;
+    border: 1px black solid;
+    margin-bottom: 1px;
+    background-color: red;
+}

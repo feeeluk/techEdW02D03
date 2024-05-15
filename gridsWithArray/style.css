@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.grids{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    border: 2px red solid ;
+}
+
+div{
+    margin: 5px;
+}
