@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#for{
+    min-height: 10px;
+    width: 100vw;
+    background-color: aqua;
+    padding: 20px;
+}
+
+#forResult{
+    min-height: 0px;
+    width: 300px;
+    background-color: darkgray;
+ 
+}
+
+#while{
+    min-height: 10px;
+    width: 100vw;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+#whileResult{
+    min-height: 0px;
+    width: 300px;
+    background-color: darkgray;
+}
