@@ -1,3 +1,16 @@
+let forLoopEventListener = document.getElementById("forButton");
+forLoopEventListener.addEventListener("click", ForLoop);
+
+
+function ForLoop()
+{
+    let element = document.getElementById("forButton");
+    element.remove();
+}
+
+
+
+
 let whileListen = document.getElementById("whileButton");
 whileListen.addEventListener("click", whileLoop);
 
